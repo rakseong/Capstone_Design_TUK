@@ -41,9 +41,8 @@ src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&log
 
 ## 수상
 #### 캡스톤 디자인 - 금상
-<img src="https://github.com/rakseong/Capstone_Design_TUK/assets/90314168/0888c929-b17d-4091-a8f4-9264cafb260e" width="200px" height="400px"/>
-
+<img src="https://github.com/rakseong/Capstone_Design_TUK/assets/90314168/0888c929-b17d-4091-a8f4-9264cafb260e" width="350px" height="500px"/>
 
 #### 한국공학대전 - 시흥시장상
-<img src="https://github.com/rakseong/Capstone_Design_TUK/assets/90314168/4bb3babc-74c9-458f-9f0c-07a7897d0096" width="200px" height="400px"/>
+<img src="https://github.com/rakseong/Capstone_Design_TUK/assets/90314168/4bb3babc-74c9-458f-9f0c-07a7897d0096" width="350px" height="500px"/>
 
