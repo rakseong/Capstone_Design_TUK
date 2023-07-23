@@ -1,4 +1,4 @@
-![리더십상](https://github.com/rakseong/Capstone_Design_TUK/assets/90314168/31e582ca-e6c4-4e2f-a75a-b34eaf781ac0)# IOT 기반 호텔서비스 도어락
+# IOT 기반 호텔서비스 도어락
 
 ## 연구 개발 배경
 - 호텔, 모텔 등 숙박업소 이용 시 
@@ -41,8 +41,9 @@ src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&log
 
 ## 수상
 #### 캡스톤 디자인 - 금상
-![금상](https://github.com/rakseong/Capstone_Design_TUK/assets/90314168/0888c929-b17d-4091-a8f4-9264cafb260e)
+<img src="https://github.com/rakseong/Capstone_Design_TUK/assets/90314168/0888c929-b17d-4091-a8f4-9264cafb260e" width="200px" height="400px"/>
+
 
 #### 한국공학대전 - 시흥시장상
-![시흥시장상](https://github.com/rakseong/Capstone_Design_TUK/assets/90314168/4bb3babc-74c9-458f-9f0c-07a7897d0096)
+<img src="https://github.com/rakseong/Capstone_Design_TUK/assets/90314168/4bb3babc-74c9-458f-9f0c-07a7897d0096" width="200px" height="400px"/>
 
